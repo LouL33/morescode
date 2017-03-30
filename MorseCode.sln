@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorseCode", "MorseCode\MorseCode.csproj", "{8726109B-A387-4207-AF2D-962CB6AA03CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{621271D7-EBB1-42E7-8F24-3CE22DCA45EC}"
+	ProjectSection(SolutionItems) = preProject
+		MorseCode\bin\Debug\morse.csv = MorseCode\bin\Debug\morse.csv
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8726109B-A387-4207-AF2D-962CB6AA03CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8726109B-A387-4207-AF2D-962CB6AA03CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8726109B-A387-4207-AF2D-962CB6AA03CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8726109B-A387-4207-AF2D-962CB6AA03CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
